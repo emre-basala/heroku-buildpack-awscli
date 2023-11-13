@@ -14,3 +14,6 @@ Example usage:
     $ heroku config:add AWS_ACCESS_KEY_ID=<aws-access-key>
     $ heroku config:add AWS_SECRET_ACCESS_KEY=<aws-secret-access-key>
     $ heroku config:add AWS_DEFAULT_REGION=<default-aws-region>
+
+
+(https://github.com/aws/aws-cli/issues/8320)
